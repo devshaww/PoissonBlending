@@ -1,4 +1,4 @@
-This is a group project which I took the responsibility of blend.
+This is a group project which I took the responsibility of blend.py and main.py
 
 <img width="672" alt="image" src="https://user-images.githubusercontent.com/22312553/232311843-131cd59d-c474-4881-82d7-b21fcbf36109.png">
 <img width="184" alt="image" src="https://user-images.githubusercontent.com/22312553/232312012-6f9627da-90d0-4ae7-9f67-c52b15dcabf4.png">
